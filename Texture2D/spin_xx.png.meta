@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: 82e4fb7c43a6f40498bb416ef015e4a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6949096134605381429
+    second: spin_xx_0
+  - first:
+      213: -7059438048183406866
+    second: spin_xx_1
+  - first:
+      213: 9104411568619275803
+    second: spin_xx_2
+  - first:
+      213: 276155657763893230
+    second: spin_xx_3
+  - first:
+      213: 425393919246364228
+    second: spin_xx_4
+  - first:
+      213: -1803183813172917891
+    second: spin_xx_5
+  - first:
+      213: 9213452759702091532
+    second: spin_xx_6
+  - first:
+      213: -3341176950376994613
+    second: spin_xx_7
+  - first:
+      213: -876762527547289703
+    second: spin_xx_8
+  - first:
+      213: 5350671465027372433
+    second: spin_xx_9
+  - first:
+      213: -5349355525750831880
+    second: spin_xx_10
+  - first:
+      213: 6157847437664456291
+    second: spin_xx_11
+  - first:
+      213: -5865766167544481242
+    second: spin_xx_12
+  - first:
+      213: 8439680187703799365
+    second: spin_xx_13
+  - first:
+      213: 3079929689280873927
+    second: spin_xx_14
+  - first:
+      213: -4026504817410696623
+    second: spin_xx_15
+  - first:
+      213: 6365705294028564411
+    second: spin_xx_16
+  - first:
+      213: -6450197740465345521
+    second: spin_xx_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spin_xx_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 853.3333
+        width: 165.66667
+        height: 170.66667
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc06eca22e9df8f90800000000000000
+      internalID: -6949096134605381429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin_xx_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 853.3333
+        width: 165.66667
+        height: 170.66667
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeea6286f76d70e90800000000000000
+      internalID: -7059438048183406866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin_xx_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 853.3333
+        width: 165.66667
+        height: 170.66667
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16428c951e595e70800000000000000
+      internalID: 9104411568619275803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin_xx_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 683.3333
+        width: 165.66667
+        height: 170.66667
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef2bbb8b1a15d300800000000000000
+      internalID: 276155657763893230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin_xx_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 683.3333
+        width: 165.66667
+        height: 170.66667
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e6a46048d47e500800000000000000
+      internalID: 425393919246364228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin_xx_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 683.3333
+        width: 165.66667
+        height: 170.66667
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79081720edc9f6e0800000000000000
+      internalID: -1803183813172917891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin_xx_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513.3333
+        width: 165.66667
+        height: 170.66667
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07b2e05872ccdf70800000000000000
+      internalID: 9213452759702091532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin_xx_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 513.3333
+        width: 165.66667
+        height: 170.66667
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc86e051441c1a1d0800000000000000
+      internalID: -3341176950376994613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin_xx_8
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 513.3333
+        width: 165.66667
+        height: 170.66667
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f8b21602d15d3f0800000000000000
+      internalID: -876762527547289703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin_xx_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343.3333
+        width: 165.66667
+        height: 170.66667
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19586ce2957614a40800000000000000
+      internalID: 5350671465027372433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin_xx_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 343.3333
+        width: 165.66667
+        height: 170.66667
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4495ecd7543c5b0800000000000000
+      internalID: -5349355525750831880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin_xx_11
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 343.3333
+        width: 165.66667
+        height: 170.66667
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e0a0f6e91157550800000000000000
+      internalID: 6157847437664456291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin_xx_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173.33333
+        width: 165.66667
+        height: 170.66667
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ab100bfbc989ea0800000000000000
+      internalID: -5865766167544481242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin_xx_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 173.33333
+        width: 165.66667
+        height: 170.66667
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54eacf55a64cf1570800000000000000
+      internalID: 8439680187703799365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin_xx_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 173.33333
+        width: 165.66667
+        height: 170.66667
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c504c6fbbb1eba20800000000000000
+      internalID: 3079929689280873927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin_xx_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.3333282
+        width: 165.66667
+        height: 170.66667
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a16dfa33bfe18c0800000000000000
+      internalID: -4026504817410696623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin_xx_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 3.3333282
+        width: 165.66667
+        height: 170.66667
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7656bec37875850800000000000000
+      internalID: 6365705294028564411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin_xx_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3.3333282
+        width: 165.66667
+        height: 170.66667
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c2984645b4c76a0800000000000000
+      internalID: -6450197740465345521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
