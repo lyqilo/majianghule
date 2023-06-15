@@ -263,6 +263,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 19d43ba3fd52b154d963153036a370b0, type: 3}
   - {fileID: 21300000, guid: 84290ab3aa31ed440acd4ee92366b59f, type: 3}
   - {fileID: 21300000, guid: c6106ed37911cfd4894c144b3c4bac5d, type: 3}
+  - {fileID: 21300000, guid: 62a4ffd3b4c06ce4faf2875827f5d54c, type: 3}
   - {fileID: 21300000, guid: a0b036e37a921d34185500897565ffbb, type: 3}
   - {fileID: 21300000, guid: b9f9d40447490c84391359e8fc7f2ec3, type: 3}
   - {fileID: 21300000, guid: db4eb1144fb2a2644baade8aa4a8763e, type: 3}
@@ -575,6 +576,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 166edcd8886fd534f95e0d07daaf4238, type: 3}
   - {fileID: 21300000, guid: ecf6f1e86f330884389bf56296c636eb, type: 3}
   - {fileID: 21300000, guid: 6f8429e8158b4744a92e87ac9af74994, type: 3}
+  - {fileID: 21300000, guid: 9e19bbf8f8021944985318e9d0d06902, type: 3}
   - {fileID: -6864259262242051498, guid: 7b4d9d0920e7a5544b78984d81d2cc18, type: 3}
   - {fileID: -4995700956139389488, guid: 7b4d9d0920e7a5544b78984d81d2cc18, type: 3}
   - {fileID: -3801536949799050684, guid: 7b4d9d0920e7a5544b78984d81d2cc18, type: 3}
@@ -987,6 +989,7 @@ SpriteAtlas:
   - guang2_guang2_1
   - yuanbao1_yuanbao1_8
   - dd
+  - titleDesc_titledesc_9 1
   - AtlasLHJ_MJ_60
   - guang1_guang1_5
   - guang1_guang1_3
@@ -1299,6 +1302,7 @@ SpriteAtlas:
   - kuaisu_kuaisu_17
   - d4bc56c6-3738-45a3-b956-7ffda590e2e6.a4e7d
   - e851e89b-faa2-4484-bea6-5c01dd9f06e2.90cf4
+  - titleDesc_titledesc_7 1
   - JB0_12
   - JB0_11
   - JB0_10
