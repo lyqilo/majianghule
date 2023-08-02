@@ -396,6 +396,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 59ecc265c6aaa054cb560ac9dce04e74, type: 3}
   - {fileID: 21300000, guid: 9a01a27516bd4fe4d8a160ea7d177011, type: 3}
   - {fileID: 21300000, guid: 185be275e3a614e439ae6dd766e9aa01, type: 3}
+  - {fileID: 21300000, guid: 860de185cbdb3824b80883e44c1470f0, type: 3}
   - {fileID: -4243952308428692522, guid: c65ed78531b377547a485b1044b6cb3c, type: 3}
   - {fileID: -5547016860817635940, guid: c65ed78531b377547a485b1044b6cb3c, type: 3}
   - {fileID: 3915359722428062458, guid: c65ed78531b377547a485b1044b6cb3c, type: 3}
@@ -490,6 +491,7 @@ SpriteAtlas:
   - {fileID: 1708847800147927139, guid: 0fb06bc646b566a4b95373a9bde294ee, type: 3}
   - {fileID: -5971396702023217738, guid: 0fb06bc646b566a4b95373a9bde294ee, type: 3}
   - {fileID: -3723567021311839718, guid: 0fb06bc646b566a4b95373a9bde294ee, type: 3}
+  - {fileID: 21300000, guid: a2adc7d62070a224cbfdedbaa7896bf8, type: 3}
   - {fileID: 9140013647838316669, guid: 6dcd62f62488b244d80bf94bdc3f3e51, type: 3}
   - {fileID: 21300000, guid: 850fa2f69e18d8c48aa074688868420c, type: 3}
   - {fileID: 21300000, guid: 1e1f140772daa6b429e9ff56f0f6373c, type: 3}
@@ -625,7 +627,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 31bdd95a00039f84688d1876d24aa20d, type: 3}
   - {fileID: 21300000, guid: 2c5ca06af76a0bc429eff03cc75752e0, type: 3}
   - {fileID: 21300000, guid: 8393c27a9fbbebe4cadbbdeb9effa146, type: 3}
-  - {fileID: 21300000, guid: fbdf867ae41765d4c997c86f3f529701, type: 3}
   - {fileID: 21300000, guid: e04c71aab159fa84f8223deaff55bbca, type: 3}
   - {fileID: 21300000, guid: 6d56f9aa68b2c394c9df8f0b5211abee, type: 3}
   - {fileID: 21300000, guid: bfb67caaf8d79f1499e2046b167daf8b, type: 3}
@@ -1121,6 +1122,7 @@ SpriteAtlas:
   - 46a7d910-12f7-4498-99d4-17cd107840ac.8a617
   - titleDesc_titledesc_7
   - bw_vfx_c_add_rot
+  - gold
   - kuaisu_17
   - kuaisu_16
   - kuaisu_15
@@ -1215,6 +1217,7 @@ SpriteAtlas:
   - mj_gold_10
   - mj_gold_13
   - mj_gold_12
+  - 3230e4dd-ab97-49eb-ad3c-2dccb68d3476.9c7e9
   - win_glow_c_rot_0
   - 797b35c6-e7b1-404f-9960-7d0e324684f3.576d6
   - dfxx1
@@ -1350,7 +1353,6 @@ SpriteAtlas:
   - bg3_bg3_1
   - bg1_bg1_4
   - 3fc7fe26-f6e0-4b3f-9242-291d810dfbf8.bc91a
-  - gold
   - 7
   - beishu_beishu_3
   - yuanbao1_yuanbao1_1
