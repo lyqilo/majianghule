@@ -54,7 +54,7 @@ TextureImporter:
       213: 2334684161661811790
     second: guang2_16
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -75,6 +75,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -113,6 +114,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -164,6 +166,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: 4
@@ -544,6 +558,24 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      guang2_0: -1989247736587153364
+      guang2_1: 4628552336230183935
+      guang2_10: -6133191529834431471
+      guang2_11: 6085065854357715989
+      guang2_12: -3932169114320504390
+      guang2_13: 6740580151191005691
+      guang2_14: 5650931749355477383
+      guang2_15: 8591686094903162132
+      guang2_16: 2334684161661811790
+      guang2_2: -934372117733809159
+      guang2_3: 8213224951754082754
+      guang2_4: 4393892879131159986
+      guang2_5: 6774589477739539380
+      guang2_6: -8346231142588841433
+      guang2_7: -289774043293609031
+      guang2_8: 6220555613902310085
+      guang2_9: 8180459915909716182
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

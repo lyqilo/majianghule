@@ -9,7 +9,7 @@ TextureImporter:
       213: 5334082956201779387
     second: zi_5
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -30,6 +30,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -68,6 +69,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -119,6 +121,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: 4
@@ -667,6 +681,32 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      zi_0: -4059739867447029504
+      zi_1: -6393723994537809727
+      zi_11: -2926103167174454743
+      zi_12: 5528249972482301939
+      zi_2: 5521641581882882468
+      zi_20: 8207739740263124053
+      zi_22: -3793059911247272108
+      zi_23: -7938038203380016876
+      zi_24: 3468873657351310314
+      zi_25: 118125593086574866
+      zi_26: 4497548656462732076
+      zi_27: 2919879504056090542
+      zi_28: 5763189231364544570
+      zi_29: 4913271863138184301
+      zi_3: 6568737688811277776
+      zi_31: -8312127832026044650
+      zi_32: -3793822169545097248
+      zi_33: 3682011159260824433
+      zi_34: 5768438896628067887
+      zi_36: -1628084862368267587
+      zi_38: 7122064388892172045
+      zi_4: 7529482975224847249
+      zi_5: 5334082956201779387
+      zi_6: -8459782944633344993
+      zi_9: 4385382615322818264
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

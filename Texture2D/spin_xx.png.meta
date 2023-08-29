@@ -57,7 +57,7 @@ TextureImporter:
       213: -6450197740465345521
     second: spin_xx_17
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -78,6 +78,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -116,6 +117,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -167,6 +169,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: 4
@@ -568,6 +582,25 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      spin_xx_0: -6949096134605381429
+      spin_xx_1: -7059438048183406866
+      spin_xx_10: -5349355525750831880
+      spin_xx_11: 6157847437664456291
+      spin_xx_12: -5865766167544481242
+      spin_xx_13: 8439680187703799365
+      spin_xx_14: 3079929689280873927
+      spin_xx_15: -4026504817410696623
+      spin_xx_16: 6365705294028564411
+      spin_xx_17: -6450197740465345521
+      spin_xx_2: 9104411568619275803
+      spin_xx_3: 276155657763893230
+      spin_xx_4: 425393919246364228
+      spin_xx_5: -1803183813172917891
+      spin_xx_6: 9213452759702091532
+      spin_xx_7: -3341176950376994613
+      spin_xx_8: -876762527547289703
+      spin_xx_9: 5350671465027372433
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -51,7 +51,7 @@ TextureImporter:
       213: 7262928482540499441
     second: ZJK_15
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -72,6 +72,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -110,6 +111,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -161,6 +163,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: 4
@@ -520,6 +534,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      ZJK_0: 9022579213462381591
+      ZJK_1: 5163528935274401252
+      ZJK_10: 518475971641800327
+      ZJK_11: 3232602468367656478
+      ZJK_12: -1923165612764493850
+      ZJK_13: -3929722364873927815
+      ZJK_14: -5998528074983526875
+      ZJK_15: 7262928482540499441
+      ZJK_2: -3154132821635708994
+      ZJK_3: 2553425855217971255
+      ZJK_4: -1603130124033569317
+      ZJK_5: -61241196304877585
+      ZJK_6: -2736806409312778162
+      ZJK_7: -4236364274432415709
+      ZJK_8: 6088046508498277634
+      ZJK_9: -989502521023267872
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

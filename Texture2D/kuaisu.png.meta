@@ -75,7 +75,7 @@ TextureImporter:
       213: 7751072923152798199
     second: kuaisu_23
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -96,6 +96,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -134,6 +135,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -185,6 +187,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: 4
@@ -712,6 +726,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      kuaisu_0: 5039426126609195974
+      kuaisu_1: 8531808508952428478
+      kuaisu_10: -1201157049488102016
+      kuaisu_11: 8136394138492099638
+      kuaisu_12: 7271577383223975847
+      kuaisu_13: 1919958804034956678
+      kuaisu_14: -1956917306348091996
+      kuaisu_15: 3915359722428062458
+      kuaisu_16: -5547016860817635940
+      kuaisu_17: -4243952308428692522
+      kuaisu_18: 6403585240651741067
+      kuaisu_19: -3750543242298165586
+      kuaisu_2: -5284066267421144842
+      kuaisu_20: -2812651261896955236
+      kuaisu_21: 2655481671385401723
+      kuaisu_22: -5001892339921496302
+      kuaisu_23: 7751072923152798199
+      kuaisu_3: -647088100887819330
+      kuaisu_4: 1269517677618179162
+      kuaisu_5: -8146461805350995683
+      kuaisu_6: -6794615088368282783
+      kuaisu_7: -3655111167206733316
+      kuaisu_8: 6891592233890683215
+      kuaisu_9: 9181813935037896749
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

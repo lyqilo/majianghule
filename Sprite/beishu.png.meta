@@ -57,7 +57,7 @@ TextureImporter:
       213: -5366283679607621252
     second: beishu_8
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -78,6 +78,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -116,6 +117,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -167,6 +169,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: 4
@@ -568,6 +582,25 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      beishu_0: -8301900396762457427
+      beishu_1: -4676818078038538464
+      beishu_12: -6162938599578718805
+      beishu_14: -3805077408270399358
+      beishu_16: 8255675279696888381
+      beishu_17: 5522453990964357787
+      beishu_18: -7590751171317210235
+      beishu_2: -1021363316851184626
+      beishu_20: 2552643358790758491
+      beishu_21: 2352076946490978710
+      beishu_22: -3697676637149114915
+      beishu_3: 3512891558363864271
+      beishu_4: -1193924237667471450
+      beishu_5: 1513684702677269880
+      beishu_6: 6212534338291188088
+      beishu_7: 7909586936343537507
+      beishu_8: -5366283679607621252
+      beishu_9: -2203133149621256267
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

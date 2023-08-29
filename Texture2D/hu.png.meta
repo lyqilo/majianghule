@@ -78,7 +78,7 @@ TextureImporter:
       213: -4467796892845654092
     second: hu_24
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -99,6 +99,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -137,6 +138,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -188,6 +190,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: 4
@@ -736,6 +750,32 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      hu_0: 7540109890096215981
+      hu_1: 9216165917643471142
+      hu_10: -6110043567490587030
+      hu_11: 6181975054325160674
+      hu_12: -8366709038662351902
+      hu_13: -3250317417983399144
+      hu_14: -8258992846869277791
+      hu_15: -8860224422948103909
+      hu_16: 3440135606567176950
+      hu_17: -6880630816860161930
+      hu_18: 98848898325888628
+      hu_19: 1765461999977529162
+      hu_2: 4217845656141806590
+      hu_20: 247435455522962713
+      hu_21: -145793411010862392
+      hu_22: 4801549761048381630
+      hu_23: -5560567212536290818
+      hu_24: -4467796892845654092
+      hu_3: -1810018213656488432
+      hu_4: 6763567581220499368
+      hu_5: -7972557061345087775
+      hu_6: -1190109584778720470
+      hu_7: 7111202811167702493
+      hu_8: 4145555301214410335
+      hu_9: -7095180579834992649
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
