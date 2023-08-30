@@ -76,6 +76,7 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 0
       enableTightPacking: 0
+      enableAlphaDilation: 0
     secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
@@ -633,7 +634,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 3d2015baacd9e6c4a8eabe492b27bd93, type: 3}
   - {fileID: 21300000, guid: cb3ad3caa7da57840beab2df163f53e1, type: 3}
   - {fileID: 21300000, guid: ecff5eda9a32cab44a8da60922a661ad, type: 3}
-  - {fileID: 257154737035281549, guid: 16a343ead1f72464b91c1063bff80535, type: 3}
+  - {fileID: 6223771280827570392, guid: 16a343ead1f72464b91c1063bff80535, type: 3}
   - {fileID: 21300000, guid: 9c555aea7a7ec514087d283015015c6c, type: 3}
   - {fileID: 21300000, guid: f3785afa542b4564f8dcd851521a3713, type: 3}
   - {fileID: 21300000, guid: 055b810b703619b4c9b2649aec2e575c, type: 3}
